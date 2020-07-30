@@ -1,3 +1,6 @@
 Inspiration and animations...
   Landing Page: https://feynmangroup.com/web-development/
+
   https://animista.net/play/entrances/flicker-in
+
+  bootstrap.build/templates: https://bootstrap.build/templates
