@@ -1,7 +1,7 @@
 <template>
-  <div class="vue">
+  <div class="vue bg-color" style="min-height:100vh;">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to my Vue.js Landing Page" />
+    <HelloWorld msg="Welcome to my Vue.js Landing Page" />...in case you ever wanted to know more about Vue!
   </div>
 </template>
 
@@ -16,3 +16,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.bg-color {
+  background-color: rgba(184, 135, 11, 0.541);
+}
+</style>
