@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <a class="navbar-brand" href="#">
       <router-link to="/">Justin Mattson</router-link>
     </a>
@@ -46,14 +46,14 @@
             </a>
           </div>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a
             class="nav-link disabled text-muted"
             href="#"
             tabindex="-1"
             aria-disabled="true"
           >Disabled</a>
-        </li>
+        </li>-->
       </ul>
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
