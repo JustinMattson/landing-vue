@@ -2,7 +2,7 @@
   <div class="vue container-fluid bg-color" style="min-height:100vh;">
     <div class="row">
       <div class="col-12">
-        <div class style="height:75px;"></div>
+        <div class style="height:60px;"></div>
         <img alt="Vue logo" src="../assets/logo.png" />
         <HelloWorld msg="Welcome to my Vue.js Landing Page" />...in case you ever wanted to know more about Vue!
       </div>
