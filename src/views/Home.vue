@@ -18,14 +18,14 @@
     <!-- EDUCATION -->
     <div class="container-fluid">
       <div class="row d-flex justify-content-around">
+        <div class="col-12 my-3">
+          <H1 class="text-center">EDUCATION:</H1>
+        </div>
         <!-- Codeworks -->
-        <div
-          class="card col-12 col-md-6 col-lg-3 my-3 shadow border border-secondary"
-          style="width: 18rem;"
-        >
+        <div class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-secondary">
           <img src="@/assets/img/BCW.jpg" class="card-img-top p-3" />
-          <div class="card-body">
-            <h5 class="card-title">500+ Hours Coding</h5>
+          <div class="card-body pt-0">
+            <h3 class="card-title">500+ Hours Coding</h3>
             <ul class="card-text text-left">
               <li>HTML5 & CSS3</li>
               <li>JavaScript ES6</li>
@@ -46,36 +46,43 @@
         </div>
 
         <!-- Continuing Education -->
-        <div class="card col-12 col-md-6 col-lg-3 my-3 bg-warning shadow">
+        <div
+          class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-secondary"
+          style="background-color:#bee8f8"
+        >
           <img src class="card-img-top" alt />
           <div class="card-body">
-            <h5 class="card-title">Continuing Education</h5>
+            <h4 class="card-title">Continuing Education</h4>
             <p class="card-text text-left">
-              Micron Technology, Inc.
+              <b>Micron Technology, Inc.</b>
               <br />
               <small>
                 <i class="fas fa-long-arrow-alt-right">&nbsp;Project Management</i>
+                <br />
                 <i class="fas fa-long-arrow-alt-right">&nbsp; Data Analysis</i>
+                <br />
                 <i class="fas fa-long-arrow-alt-right">&nbsp; Problem Solving</i>
               </small>
             </p>
             <p class="card-text text-left">
-              Boise State University
+              <b>Boise State University</b>
               <br />
               <small>
-                <i class="fas fa-long-arrow-alt-right">&nbsp;Electrical Engineering</i>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;Electrical & Computer Engineering</i>
+                <br />
                 <i class="fas fa-long-arrow-alt-right">&nbsp;Computer Science</i>
               </small>
             </p>
             <p class="card-text text-left">
-              College of Southern Idaho
+              <b>College of Southern Idaho</b>
               <br />
               <small>
                 <i class="fas fa-long-arrow-alt-right">&nbsp;Upper Division Mathematics</i>
               </small>
             </p>
             <p class="card-text text-left">
-              Flathead Valley Community College
+              <b>Flathead Valley Community College</b>
+              <br />
               <small>
                 <i class="fas fa-long-arrow-alt-right">&nbsp;General Education</i>
               </small>
@@ -85,11 +92,11 @@
         </div>
 
         <!-- Devry Phoenix -->
-        <div class="card col-12 col-md-6 col-lg-3 my-3 shadow bg-secondary">
+        <div class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-warning bg-secondary">
           <img src="@/assets/img/devry-logo.svg" class="card-img-top p-3" alt />
-          <div class="card-body">
-            <h5 class="card-title">Electronics</h5>
-            <p class="card-text">Associate of Applied Science</p>
+          <div class="card-body pt-0">
+            <h5 class="card-title" style="color:black;">Electronics</h5>
+            <p class="card-text" style="color:black;">Associate of Applied Science</p>
             <a
               href="https://www.devry.edu/about/campus-locations/arizona/phoenix.html"
               target="_blank"
@@ -100,9 +107,34 @@
       </div>
     </div>
 
-    <div class="col-12" style="background-color:#ffffff53;height:600px;">Column3</div>
+    <!-- PROJECTS -->
+    <!-- <div class="container-fluid"> -->
+    <div class="row">
+      <div class="col-12" style="background-color:#777C;">
+        <H1 class="text-center py-3">Coding Projects:</H1>
+      </div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">Keepr</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-secondary" style="height:150px;">Please Help Me!</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-info" style="height:150px;">KanBan</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">BugLog</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-secondary" style="height:150px;">5</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-info" style="height:150px;">6</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">7</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-secondary" style="height:150px;">8</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-info" style="height:150px;">9</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">10</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-secondary" style="height:150px;">11</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-info" style="height:150px;">12</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">13</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-secondary" style="height:150px;">14</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-info" style="height:150px;">15</div>
+      <div class="col-12 col-md-6 col-lg-3 bg-primary" style="height:150px;">16</div>
+    </div>
+    <!-- </div> -->
+
     <!-- Footer -->
-    <div class="col-12 text-center fixed-bottom" style="background-color:#FFFFFFdd">
+    <div class style="height:50px;"></div>
+    <div class="col-12 text-center fixed-bottom p-0" style="background-color:#fffd">
       <div style="font-weight:700;">
         Made with
         <img src="@/assets/logo.png" style="height: 1em" />
