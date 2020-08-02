@@ -1,5 +1,5 @@
 <template>
-  <div class="hello bg-secondary text-light text-shadow rounded-lg p-2">
+  <div class="defaultVue bg-secondary text-light text-shadow rounded-lg p-2">
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,
@@ -72,7 +72,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "defaultVue",
   props: {
     msg: String,
   },

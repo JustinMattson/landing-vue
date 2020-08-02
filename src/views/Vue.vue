@@ -4,7 +4,7 @@
       <div class="col-12">
         <div class style="height:60px;"></div>
         <img alt="Vue logo" src="../assets/logo.png" />
-        <HelloWorld msg="Welcome to my Vue.js Landing Page" />...in case you ever wanted to know more about Vue!
+        <DefaultVue msg="Welcome to my Vue.js Landing Page" />...in case you ever wanted to know more about Vue!
       </div>
     </div>
   </div>
@@ -12,12 +12,12 @@
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import DefaultVue from "@/components/DefaultVue.vue";
 
 export default {
   name: "vue",
   components: {
-    HelloWorld,
+    DefaultVue,
   },
 };
 </script>

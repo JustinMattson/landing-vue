@@ -7,12 +7,100 @@
 
         <p>Welcome to my blank slate...</p>
         <B>
-          <p>The best thing about starting a Vue project from scratch, is I can let my imagination run free!</p>
+          <p>
+            The best thing about starting a Vue project from scratch is...
+            <br />I can let my imagination run free!
+          </p>
         </B>
       </div>
-      <div class="col-12" style="background-color:#44444453;height:600px;">Column 2</div>
-      <div class="col-12" style="background-color:#ffffff53;height:600px;">Column3</div>
     </div>
+
+    <!-- EDUCATION -->
+    <div class="container-fluid">
+      <div class="row d-flex justify-content-around">
+        <!-- Codeworks -->
+        <div
+          class="card col-12 col-md-6 col-lg-3 my-3 shadow border border-secondary"
+          style="width: 18rem;"
+        >
+          <img src="@/assets/img/BCW.jpg" class="card-img-top p-3" />
+          <div class="card-body">
+            <h5 class="card-title">500+ Hours Coding</h5>
+            <ul class="card-text text-left">
+              <li>HTML5 & CSS3</li>
+              <li>JavaScript ES6</li>
+              <li>Web API / HTTP</li>
+              <li>JS Frameworks</li>
+              <li>Nodejs</li>
+              <li>DotNet Core C#</li>
+              <li>SQL</li>
+              <li>MongoDb</li>
+              <li>Agile / Scrum</li>
+            </ul>
+            <a
+              href="https://boisecodeworks.com/"
+              target="_blank"
+              class="btn btn-outline-primary"
+            >Codeworks</a>
+          </div>
+        </div>
+
+        <!-- Continuing Education -->
+        <div class="card col-12 col-md-6 col-lg-3 my-3 bg-warning shadow">
+          <img src class="card-img-top" alt />
+          <div class="card-body">
+            <h5 class="card-title">Continuing Education</h5>
+            <p class="card-text text-left">
+              Micron Technology, Inc.
+              <br />
+              <small>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;Project Management</i>
+                <i class="fas fa-long-arrow-alt-right">&nbsp; Data Analysis</i>
+                <i class="fas fa-long-arrow-alt-right">&nbsp; Problem Solving</i>
+              </small>
+            </p>
+            <p class="card-text text-left">
+              Boise State University
+              <br />
+              <small>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;Electrical Engineering</i>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;Computer Science</i>
+              </small>
+            </p>
+            <p class="card-text text-left">
+              College of Southern Idaho
+              <br />
+              <small>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;Upper Division Mathematics</i>
+              </small>
+            </p>
+            <p class="card-text text-left">
+              Flathead Valley Community College
+              <small>
+                <i class="fas fa-long-arrow-alt-right">&nbsp;General Education</i>
+              </small>
+            </p>
+            <!-- <a href="#" class="btn btn-outline-primary">Go somewhere</a> -->
+          </div>
+        </div>
+
+        <!-- Devry Phoenix -->
+        <div class="card col-12 col-md-6 col-lg-3 my-3 shadow bg-secondary">
+          <img src="@/assets/img/devry-logo.svg" class="card-img-top p-3" alt />
+          <div class="card-body">
+            <h5 class="card-title">Electronics</h5>
+            <p class="card-text">Associate of Applied Science</p>
+            <a
+              href="https://www.devry.edu/about/campus-locations/arizona/phoenix.html"
+              target="_blank"
+              class="btn btn-outline-warning"
+            >DeVry Phoenix</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-12" style="background-color:#ffffff53;height:600px;">Column3</div>
     <!-- Footer -->
     <div class="col-12 text-center fixed-bottom" style="background-color:#FFFFFFdd">
       <div style="font-weight:700;">
