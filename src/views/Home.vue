@@ -310,7 +310,7 @@
           <div class="card-img-overlay">
             <h3 class="card-title text-shadow">Inspire</h3>
             <p class="card-text text-shadow">
-              <small>JS 81.9% | HTML 14.5% | CSS 3.6%</small>
+              <small>JS | HTML | CSS</small>
             </p>
             <span class="d-flex justify-content-between">
               <a
