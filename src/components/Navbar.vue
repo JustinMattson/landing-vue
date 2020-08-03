@@ -18,15 +18,15 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">
+          <!-- <a class="nav-link" href="#">
             <router-link to="/vue">Vue</router-link>
-          </a>
+          </a>-->
 
           <span class="sr-only">(current)</span>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link text-muted" href="#">Link</a>
-        </li>
+        </li>-->
         <li class="nav-item dropdown">
           <a
             class="nav-link dropdown-toggle"
@@ -38,11 +38,14 @@
             aria-expanded="false"
           >Dropdown</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item text-muted" href="#">Action</a>
-            <a class="dropdown-item text-muted" href="#">Another action</a>
+            <!-- <a class="dropdown-item text-muted" href="#">Action</a>
+            <a class="dropdown-item text-muted" href="#">Another action</a>-->
+            <a class="dropdown-item" href="#">
+              <router-link to="/vue">Vue</router-link>
+            </a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="#">
-              <router-link to="/about">About</router-link>
+              <router-link to="/about">About Me</router-link>
             </a>
           </div>
         </li>
@@ -55,10 +58,10 @@
           >Disabled</a>
         </li>-->
       </ul>
-      <form class="form-inline my-2 my-lg-0">
+      <!-- <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
+      </form>-->
     </div>
   </nav>
 </template>

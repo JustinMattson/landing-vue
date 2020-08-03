@@ -233,7 +233,7 @@
           </div>
         </div>
       </div>
-      <!-- Bloggr #6 -->
+      <!-- Bloggr #6 npm run serve (VUE)-->
       <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
@@ -267,13 +267,13 @@
           </div>
         </div>
       </div>
-      <!-- Hackathon #5 -->
+      <!-- Hackathon #5 bcw-serve -->
       <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
-            src="//placehold.it/400x150"
+            src="@/assets/img/sceneit.png"
             class="card-img"
-            alt="hackathon.png"
+            alt="sceneit.png"
             style="opacity:40%;height:145px;"
           />
           <div class="card-img-overlay">
@@ -315,7 +315,7 @@
             <span class="d-flex justify-content-between">
               <a
                 class="ao"
-                href="https://github.com/JustinMattson/CheckPoint3-inspire"
+                href="https://github.com/JustinMattson/CheckPoint4-inspire"
                 style="text-decoration:none;"
                 target="_blank"
               >
@@ -323,7 +323,7 @@
               </a>
               <a
                 class="ao"
-                href="https://justinmattson.github.io/CheckPoint3-inspire"
+                href="https://justinmattson.github.io/checkpoint4-inspire/"
                 target="_blank"
               >
                 <h3>GITHUB</h3>
