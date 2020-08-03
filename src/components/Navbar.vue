@@ -36,7 +36,7 @@
             data-toggle="dropdown"
             aria-haspopup="true"
             aria-expanded="false"
-          >Dropdown</a>
+          >More Info</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <!-- <a class="dropdown-item text-muted" href="#">Action</a>
             <a class="dropdown-item text-muted" href="#">Another action</a>-->
