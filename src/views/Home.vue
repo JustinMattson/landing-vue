@@ -18,7 +18,7 @@
     <!-- EDUCATION -->
     <div class="container-fluid">
       <div class="row d-flex justify-content-around">
-        <div class="col-12 my-3">
+        <div class="col-12 mt-3 mb-0">
           <H1 class="text-center">EDUCATION:</H1>
         </div>
         <!-- Codeworks -->
@@ -109,12 +109,12 @@
 
     <!-- PROJECTS -->
     <!-- <div class="container-fluid"> -->
-    <div class="row">
-      <div class="col-12" style="background-color:#8888;">
+    <div class="row py-3" style="background-color:#8888;">
+      <div class="col-12">
         <H1 class="text-center py-3 text-shadow-light">Coding Projects:</H1>
       </div>
       <!-- Keepr -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/keepr.png"
@@ -144,7 +144,7 @@
         </div>
       </div>
       <!-- Volunteer #8 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/volunteer.png"
@@ -174,7 +174,7 @@
         </div>
       </div>
       <!-- BugLog #8 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/buglog.png"
@@ -204,7 +204,7 @@
         </div>
       </div>
       <!-- Kanban #7 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/kanban.png"
@@ -234,17 +234,14 @@
         </div>
       </div>
       <!-- Bloggr #6 -->
-      <div
-        class="col-12 col-md-6 col-lg-3 valign p-1 bg-happy"
-        style="height:150px;background-color:#8888;"
-      >
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
-          <!-- <img
+          <img
             src="../assets/img/bloggr.png"
             class="card-img"
             alt="bloggr.png"
             style="opacity:40%;height:145px;"
-          />-->
+          />
           <div class="card-img-overlay">
             <h3 class="card-title text-shadow">Bloggr</h3>
             <p class="card-text text-shadow">
@@ -271,17 +268,14 @@
         </div>
       </div>
       <!-- Hackathon #5 -->
-      <div
-        class="col-12 col-md-6 col-lg-3 valign p-1 bg-happy"
-        style="height:150px;background-color:#8888;"
-      >
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
-          <!-- <img
-            src="../assets/img/hackathon.png"
+          <img
+            src="//placehold.it/400x150"
             class="card-img"
             alt="hackathon.png"
             style="opacity:40%;height:145px;"
-          />-->
+          />
           <div class="card-img-overlay">
             <h3 class="card-title text-shadow">Scene It!</h3>
             <p class="card-text text-shadow">
@@ -305,7 +299,7 @@
         </div>
       </div>
       <!-- Inspire #4 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/inspire.png"
@@ -339,7 +333,7 @@
         </div>
       </div>
       <!-- Task Master #3 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/taskmaster.png"
@@ -373,7 +367,7 @@
         </div>
       </div>
       <!-- Idle Clicker #2 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/lollipop.png"
@@ -403,7 +397,7 @@
         </div>
       </div>
       <!-- SiteClone #1 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;background-color:#8888;">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
         <div class="card bg-dark text-white">
           <img
             src="../assets/img/siteclone.png"
@@ -436,22 +430,11 @@
           </div>
         </div>
       </div>
-
-      <div class="col-12 col-md-6 col-lg-3 valign bg-primary" style="height:150px;">BugLog</div>
-      <div
-        class="col-12 col-md-6 col-lg-3 valign text-light text-shadow-dark"
-        style="height:150px;"
-      ></div>
-
-      <div class="col-12 col-md-6 col-lg-3 valign bg-info bg-happy" style="height:150px;">6</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-primary" style="height:150px;">7</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-secondary" style="height:150px;">8</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-happy" style="height:150px;">9</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-primary" style="height:150px;">10</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-secondary" style="height:150px;">11</div>
-      <div class="col-12 col-md-6 col-lg-3 valign bg-info" style="height:150px;">12</div>
     </div>
-    <!-- </div> -->
+
+    <div class="col-12 valign p-1 bg-happy" style="height:950px">
+      <div class="d-flex valign text-light text-shadow" style="font-size:72pt;">Have a nice day!</div>
+    </div>
 
     <!-- Footer -->
     <div class style="height:50px;"></div>
@@ -520,10 +503,10 @@ a.ao {
 .text-shadow {
   text-shadow: 1px 1px black;
 }
-/* .valign {
+.valign {
   flex-grow: 1;
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+}
 </style>
