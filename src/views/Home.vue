@@ -114,319 +114,311 @@
         <H1 class="text-center py-3 text-shadow-light">Coding Projects:</H1>
       </div>
       <!-- Keepr -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/keepr.png"
-            class="card-img"
-            alt="keepr.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Keepr</h3>
-            <p class="card-text text-shadow">
-              <small>Vue.js | C# | MySQL</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/CS-final-keepr"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a class="ao" href="https://keepr252.herokuapp.com/#/" target="_blank">
-                <h3>HEROKU</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/keepr.png" class="image" alt="keepr.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Keepr</h3>
+              <p>
+                <small>Vue.js | C# | MySQL</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/CS-final-keepr"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a class="ao" href="https://keepr252.herokuapp.com/#/" target="_blank">
+                  <h3>HEROKU</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Volunteer #8 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/volunteer.png"
-            class="card-img"
-            alt="volunteer.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Volunteer</h3>
-            <p class="card-text text-shadow">
-              <small>Vue.js | Node.js | MongoDB</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/capstone-volunteer"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a class="ao" href="https://capstone-volunteer.herokuapp.com" target="_blank">
-                <h3>HEROKU</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/volunteer.png" class="image" alt="volunteer.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Volunteer</h3>
+              <p>
+                <small>Vue.js | Node.js | MongoDB</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/capstone-volunteer"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a class="ao" href="https://capstone-volunteer.herokuapp.com" target="_blank">
+                  <h3>HEROKU</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- BugLog #8 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/buglog.png"
-            class="card-img"
-            alt="buglog.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">BugLog</h3>
-            <p class="card-text text-shadow">
-              <small>Vue.js | Node.js | MongoDB</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/checkpoint-buglog"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a class="ao" href="https://checkpoint-buglog.herokuapp.com" target="_blank">
-                <h3>HEROKU</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/buglog.png" class="image" alt="buglog.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>BugLog</h3>
+              <p>
+                <small>Vue.js | Node.js | MongoDB</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/checkpoint-buglog"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a class="ao" href="https://checkpoint-buglog.herokuapp.com" target="_blank">
+                  <h3>HEROKU</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Kanban #7 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/kanban.png"
-            class="card-img"
-            alt="kanban.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Kanban</h3>
-            <p class="card-text text-shadow">
-              <small>Vue.js | Node.js | MongoDB</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/checkpoint-kanban"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a class="ao" href="https://checkpoint-kanban.herokuapp.com" target="_blank">
-                <h3>HEROKU</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/kanban.png" class="image" alt="kanban.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Kanban</h3>
+              <p>
+                <small>Vue.js | Node.js | MongoDB</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/checkpoint-kanban"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a class="ao" href="https://checkpoint-kanban.herokuapp.com" target="_blank">
+                  <h3>HEROKU</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Bloggr #6 npm run serve (VUE)-->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/bloggr.png"
-            class="card-img"
-            alt="bloggr.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Bloggr</h3>
-            <p class="card-text text-shadow">
-              <small>VUE | JS | Node.js | MongoDB</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/bloggr-checkpoint"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a
-                class="ao"
-                href="https://justinmattson.github.io/bloggr-checkpoint"
-                target="_blank"
-              >
-                <h3>GITHUB</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/bloggr.png" class="image" alt="bloggr.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Bloggr</h3>
+              <p>
+                <small>VUE | JS | Node.js | MongoDB</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/bloggr-checkpoint"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a
+                  class="ao"
+                  href="https://justinmattson.github.io/bloggr-checkpoint"
+                  target="_blank"
+                >
+                  <h3>GITHUB</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Hackathon #5 bcw-serve -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="@/assets/img/sceneit.png"
-            class="card-img"
-            alt="sceneit.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Scene It!</h3>
-            <p class="card-text text-shadow">
-              <small>JS | Node.js | MongoDB</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/hackathon-1"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <!-- <a class="ao" href="https://justinmattson.github.io/hackathon-1" target="_blank">
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="@/assets/img/sceneit.png" class="image" alt="sceneit.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Scene It!</h3>
+              <p>
+                <small>JS | Node.js | MongoDB</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/hackathon-1"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <!-- <a class="ao" href="https://justinmattson.github.io/hackathon-1" target="_blank">
                 <h3>GITHUB</h3>
-              </a>-->
-              <h4>Group Project</h4>
-            </span>
+                </a>-->
+                <h4>Group Project</h4>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Inspire #4 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/inspire.png"
-            class="card-img"
-            alt="inspire.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Inspire</h3>
-            <p class="card-text text-shadow">
-              <small>JS | HTML | CSS</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/CheckPoint4-inspire"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a
-                class="ao"
-                href="https://justinmattson.github.io/checkpoint4-inspire/"
-                target="_blank"
-              >
-                <h3>GITHUB</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/inspire.png" class="image" alt="inspire.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Inspire</h3>
+              <p>
+                <small>JS | HTML | CSS</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/CheckPoint4-inspire"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a
+                  class="ao"
+                  href="https://justinmattson.github.io/checkpoint4-inspire/"
+                  target="_blank"
+                >
+                  <h3>GITHUB</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Task Master #3 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/taskmaster.png"
-            class="card-img"
-            alt="taskmaster.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Task Master</h3>
-            <p class="card-text text-shadow">
-              <small>JS | HTML | CSS</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/CheckPoint3-TaskMaster"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a
-                class="ao"
-                href="https://justinmattson.github.io/CheckPoint3-TaskMaster"
-                target="_blank"
-              >
-                <h3>GITHUB</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="../assets/img/taskmaster.png" class="image" alt="taskmaster.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Task Master</h3>
+              <p>
+                <small>JS | HTML | CSS</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/CheckPoint3-TaskMaster"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a
+                  class="ao"
+                  href="https://justinmattson.github.io/CheckPoint3-TaskMaster"
+                  target="_blank"
+                >
+                  <h3>GITHUB</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- Idle Clicker #2 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/lollipop.png"
-            class="card-img"
-            alt="lollipop.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">The Lollipop Shop</h3>
-            <p class="card-text text-shadow">
-              <small>JS | HTML | CSS</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/CheckPoint2"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a class="ao" href="https://justinmattson.github.io/CheckPoint2" target="_blank">
-                <h3>GITHUB</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="@/assets/img/lollipop.png" class="image" alt="lollipop.png" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <div>
+                <h3>The Lollipop Shop</h3>
+                <p>
+                  <small>JS | HTML | CSS</small>
+                </p>
+              </div>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/CheckPoint2"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a class="ao" href="https://justinmattson.github.io/CheckPoint2" target="_blank">
+                  <h3>GITHUB</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <!-- SiteClone #1 -->
-      <div class="col-12 col-md-6 col-lg-3 valign p-1" style="height:150px;width:300px;">
-        <div class="card bg-dark text-white">
-          <img
-            src="../assets/img/siteclone.png"
-            class="card-img"
-            alt="siteclone.png"
-            style="opacity:40%;height:145px;"
-          />
-          <div class="card-img-overlay">
-            <h3 class="card-title text-shadow">Site Clone</h3>
-            <p class="card-text text-shadow">
-              <small>HTML | CSS | JS</small>
-            </p>
-            <span class="d-flex justify-content-between">
-              <a
-                class="ao"
-                href="https://github.com/JustinMattson/week-1-checkpoint"
-                style="text-decoration:none;"
-                target="_blank"
-              >
-                <i class="fab fa-github-square fa-2x"></i>
-              </a>
-              <a
-                class="ao"
-                href="https://justinmattson.github.io/week-1-checkpoint/"
-                target="_blank"
-              >
-                <h3>GITHUB</h3>
-              </a>
-            </span>
+      <div class="col-12 col-md-6 col-lg-3 valign p-1">
+        <div class="container p-0">
+          <img src="@/assets/img/siteclone.png" alt="SiteClone" class="image" />
+          <div class="overlay">
+            <div class="text text-shadow">
+              <h3>Site Clone</h3>
+              <p>
+                <small>HTML | CSS | JS</small>
+              </p>
+              <div>
+                <a
+                  class="ao"
+                  href="https://github.com/JustinMattson/week-1-checkpoint"
+                  style="text-decoration:none;"
+                  target="_blank"
+                >
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a>
+              </div>
+              <div>
+                <a
+                  class="ao"
+                  href="https://justinmattson.github.io/week-1-checkpoint/"
+                  target="_blank"
+                >
+                  <h3>GITHUB</h3>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -508,5 +500,43 @@ a.ao {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: #35495ecc;
+  border-radius: 10px;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 </style>
